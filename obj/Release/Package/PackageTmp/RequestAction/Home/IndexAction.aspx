@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="IndexAction.aspx.cs" Inherits="UniversalPlatform.RequestAction.Home.IndexAction" %>
